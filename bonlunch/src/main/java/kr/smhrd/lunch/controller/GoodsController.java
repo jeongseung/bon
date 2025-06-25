@@ -14,7 +14,7 @@ import kr.smhrd.lunch.dto.GoodsDto;
 import kr.smhrd.lunch.repository.GoodsRepository;
 import kr.smhrd.lunch.service.GoodsService;
 
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "http://3.25.124.94:5173")
 @RestController
 @RequestMapping("/api")
 public class GoodsController {
