@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import kr.smhrd.board.dto.BoardDTO;
+
 import kr.smhrd.lunch.dto.GoodsDto;
 import kr.smhrd.lunch.repository.GoodsRepository;
 import kr.smhrd.lunch.service.GoodsService;
